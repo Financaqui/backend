@@ -20,5 +20,6 @@ public class Gasto {
     private Float valor;
     private Integer qtdParcelas;
     private Timestamp data;
+    private Tipo formaPagamento;
 
 }
